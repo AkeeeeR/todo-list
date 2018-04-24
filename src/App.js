@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {reactLocalStorage} from 'reactjs-localstorage';
 import logo from './logo.svg';
-import './App.css';
+import './css/App.min.css';
 
 import Header from './components/header';
 import TodoInput from './components/todoInput';

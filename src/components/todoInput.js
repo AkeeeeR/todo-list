@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/todoInput.css';
+import '../css/todoInput.min.css';
 
 export default class TodoInput extends React.Component {
     constructor(props) {
